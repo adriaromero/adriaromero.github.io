@@ -1,0 +1,40 @@
+name: Adria Romero
+description: >
+    Adria Romero
+about: >
+    Personal website and blog about machine learning by Adria.
+    <br><br>
+    Follow me on twitter at <a href="http://www.twitter.com/adriaromero">@adriaromero</a>
+    <br><br>
+
+master_repo: false
+url: "http://www.adriaromero.net"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+
+paginate: 4
+paginate_path: "/blog/page:num/"
+
+# logo:             logo.png
+# disqus_shortname:
+
+rtl: false
+owner:
+  name:           Adria Romero
+  avatar:         "images/adria.jpg"
+  email:          "adriaromero@me.com"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: adriaromero
+  github: https://github.com/adriaromero
+  # stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
+  linkedin: https://www.linkedin.com/in/adriaromero/
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-127412020-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:

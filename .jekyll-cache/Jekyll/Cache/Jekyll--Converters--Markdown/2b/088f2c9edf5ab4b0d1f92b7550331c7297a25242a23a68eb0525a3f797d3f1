@@ -1,0 +1,372 @@
+I"�R<!-- ## About Me -->
+
+<p><img src="images/adria.jpg" height="250" width="250" align="right" /></p>
+
+<p><strong>Senior Data Scientist</strong> at <a href="https://www.triage.com/about">Triage</a>, based in Toronto,
+developing artificial intelligence, computer vision and Q&amp;A solutions for healthcare products.
+My applied research and engineering work focuses on <em>machine learning</em>, <em>computer vision</em>, <em>medical imaging</em> and <em>Q&amp;A</em> systems.</p>
+
+<p>In 2017, I graduated from <a href="https://www.upc.edu/en">Polytechnic University of Catalonia</a> in Electrical Engineering.
+I completed my Bachelor’s Thesis at <a href="http://www.ceecs.fau.edu/">Florida Atlantic University</a> advised by Professor
+<a href="https://www.ogemarques.com/">Oge Marques</a> and Professor <a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giro-i-Nieto</a> about <em>Deep Learning techniques applied to Medical Imaging</em> in 2016.</p>
+
+<p>I am currently enrolled on the Online Master of Science in Computer Science (<a href="http://www.omscs.gatech.edu/">OMSCS</a>) at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>.</p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<p>Find me on <a href="https://twitter.com/adriaromero" class="fa fa-twitter"></a> <a href="https://github.com/adriaromero" class="fa fa-github"></a>
+<a href="https://www.linkedin.com/in/adriaromero/" class="fa fa-linkedin"></a> or email me at <em>adriaromero [at] me [dot] com</em> .</p>
+
+<h1 id="news-">News <img src="images/icons/megaphone.png" height="75" width="75" align="right" /></h1>
+
+<ul>
+  <li>
+    <p><em>Nov 2019</em> - I am invited to give a talk at the <a href="https://drive.google.com/open?id=1lZT6lhpJagCvvbrWNNF7HzIlZVPXaMuV">Novartis’ I+Derma</a> talks. <a href="https://cdnapisec.kaltura.com/html5/html5lib/v2.76/mwEmbedFrame.php/p/2076321/uiconf_id/40166251/entry_id/1_qkvraeku?wid=_2076321&amp;iframeembed=true&amp;playerId=kaltura_player_1580707787&amp;entry_id=1_qkvraeku">📹</a></p>
+  </li>
+  <li>
+    <p><em>Nov 2018</em> - Our artwork <a href="https://artifyearth.co/"><em>Life on Mars?</em></a> will be displayed at
+<a href="https://nips2018creativity.github.io/">NeurIPS 2018 Workshop on Machine Learning for Creativity and Design</a>.
+<a href="https://twitter.com/adriaromero/status/1071446311797485569">🐦</a></p>
+  </li>
+  <li>
+    <p><em>Nov 2018</em> - I will be presenting Triage’s latest work at the Self-Organizing Conference on Machine learning (SOCML) in Google’s Toronto office.</p>
+  </li>
+  <li>
+    <p><em>Jul 2018</em> - I was accepted to attend to <a href="http://iplab.dmi.unict.it/miss/">MISS 2018</a>. <a href="https://twitter.com/adriaromero/status/1024427158209536001">🐦</a></p>
+  </li>
+  <li>
+    <p><em>Jun 2018</em> - <a href="https://www.slideshare.net/AdriRomeroLpez/adriabscthesis"><em>“Skin lesion detection from dermoscopic images using CNNs”</em></a>
+has been awarded as best Bachelor thesis in the field of telecommunications engineering. <a href="https://twitter.com/adriaromero/status/1007447663158218753">🐦</a></p>
+  </li>
+  <li>
+    <p><em>May 2017</em> - I will be representing Triage at <a href="https://www.nvidia.com/en-us/gtc/">NVIDIA GTC</a> Conference in San Jose (California).
+<a href="https://gputechconf2017.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=118921&amp;tclass=popup">[session]</a>
+<a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7842-tory-jarmain-how-triage-is-detecting-skin-cancer-from-smartphones-with-deep.pdf">[slides]</a></p>
+  </li>
+  <li>
+    <p><em>Apr 2017</em> - I start working at <a href="https://www.triage.com/about">Triage</a>.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+<h1 id="industry-experience">Industry Experience</h1>
+
+<script>
+function show_text(id_str) {
+    var x = document.getElementById(id_str);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+<h2 id="senior-data-scientist">Senior Data Scientist</h2>
+<p><a href="https://www.triage.com">Triage</a>
+<br />
+Apr 2019 - Current
+<br />
+<em>Toronto, Canada</em>
+<br />
+<a id="triage-job-botton" onclick="show_text('triage-senior-job')">[description]</a></p>
+<div id="triage-senior-job" style="display:none;">
+<blockquote> Triage brings artificial intelligence solutions to healthcare. We use deep learning, a type of machine
+learning algorithms inspired by the human brain, to perform skin exams with dermatologist-level accuracy. </blockquote>
+</div>
+
+<h2 id="ai-researcher--developer">AI Researcher &amp; Developer</h2>
+<p><a href="https://www.triage.com">Triage</a>
+<br />
+Apr 2017 - Apr 2019
+<br />
+<em>Toronto, Canada</em>
+<br />
+<a id="triage-job-botton" onclick="show_text('triage-job')">[description]</a></p>
+<div id="triage-job" style="display:none;">
+<blockquote> Triage brings artificial intelligence solutions to healthcare. We use deep learning, a type of machine
+learning algorithms inspired by the human brain, to perform skin exams with dermatologist-level accuracy. </blockquote>
+</div>
+
+<h2 id="machine-learning-engineer-intern">Machine Learning Engineer Intern</h2>
+<p><a href="https://www.insight-centre.org/">Insight Centre for Data Analytics</a>
+<br />
+Feb 2017 - Apr 2017
+<br />
+<em>Dublin, Ireland</em>
+<br />
+<a id="insight-job-botton" onclick="show_text('insight-job')">[description]</a></p>
+<div id="insight-job" style="display:none;">
+<blockquote> I assisted in a project focused on multi-objective learning in deep networks that combined discriminative
+unsupervised learning with classic supervised learning over large partially labelled data sources to fit
+highly-generalizable models. </blockquote>
+</div>
+
+<h2 id="visiting-student">Visiting Student</h2>
+<p><a href="http://www.ceecs.fau.edu/">Florida Atlantic University</a>
+<br />
+Aug 2016 - Feb 2017
+<br />
+<em>Boca Raton, Florida, USA</em>
+<br />
+<a id="fau-visiting-botton" onclick="show_text('fau-visiting')">[description]</a>
+<a href="https://www.slideshare.net/AdriRomeroLpez/adriabscthesis">[thesis]</a></p>
+<div id="fau-visiting" style="display:none;">
+<blockquote> Bachelor’s thesis "Skin lesion detection from dermoscopic images using CNNs" under the supervision of
+Professor Oge Marques </blockquote>
+</div>
+
+<p><br /></p>
+<h1 id="education">Education</h1>
+
+<h2 id="msc-in-computer-science">M.Sc. in Computer Science</h2>
+<p><a href="https://www.gatech.edu/">Georgia Institute of Technology</a> (GaTech)
+<br />
+<em>Atlanta, USA</em>
+<br />
+January 2020 - January 2022 (<em>Expected</em>)</p>
+
+<h2 id="bsc-in-telecommunications-engineering">B.Sc. in Telecommunications Engineering</h2>
+<p><a href="https://www.upc.edu/en">Polytechnic University of Catalonia</a> (UPC)
+<br />
+<em>Barcelona, Spain</em>
+<br />
+Sept 2011 - Jan 2017
+<br /></p>
+
+<p><br /></p>
+<h1 id="talks">Talks</h1>
+
+<p><strong><a href="https://drive.google.com/open?id=1lZT6lhpJagCvvbrWNNF7HzIlZVPXaMuV">Novartis I+Derma</a></strong>: Detect Disease in a Snap.
+<br />
+<em>Nov 2019. Novartis Spain, Madrid, Spain.</em></p>
+
+<p><strong>GPI Seminar Series</strong>: <a href="https://imatge.upc.edu/web/info/gpi-seminar-series-towards-skin-disease-recognition-using-deep-learning-jul-26th-2018">Towards skin disease recognition using deep learning.</a>
+<br />
+<em>Jul 2018. UPC, Barcelona, Spain.</em>
+ <a id="gpi-seminar-botton" onclick="show_text('gpi-seminar')">[abstract]</a>
+<a href="https://twitter.com/adriaromero/status/1022536929986977792">🐦</a></p>
+<div id="gpi-seminar" style="display:none;">
+<blockquote> Skin disorders are one of the most common reasons why patients visit their primary care physicians. 1 in
+3 cancer diagnoses is skin cancer and 1 in 5 Americans will develop skin cancer in their lifetime. The average wait time
+to see a dermatologist in the United States is 1 month and even greater in other parts of the world. In that time skin
+disorders can worsen or become life threatening. The recent emergence of machine learning and deep learning methods for
+medical image analysis has enabled the development of intelligent medical imaging-based diagnosis systems that can assist
+physicians in making better decisions about a patient’s health. In particular, skin imaging is a field where these new
+methods can be applied with a high rate of success. In this talk you will learn how Triage, a Toronto based startup
+is using deep learning to diagnose any skin disease through real case studies, few months prior to become one of the
+first healthcare companies using AI to be approved by the U.S. Food &amp; Drugs Administration (FDA).
+</blockquote>
+</div>
+
+<p><strong><a href="http://www.upv.es/">Universitat Politecnica de Valencia</a></strong> (UPV): <em>Some insights and Deep Learning in a nutshell</em>.
+<br />
+<em>Oct 2017. Valencia, Spain.</em>
+<a href="https://twitter.com/adriaromero/status/922252187337723904">🐦</a></p>
+
+<p><strong><a href="https://www.hospitalclinic.org/en">Hospital Clínic</a></strong> - <a href="https://www.hospitalclinic.org/en/healthcare/hospital-care/medicine-and-dermatology-icmid">Medicine and Dermatology</a>
+(ICMiD) to <a href="https://www.researchgate.net/profile/Susana_Puig">Dr. Susana Puig</a>, <a href="https://www.researchgate.net/profile/Josep_Malvehy">Dr. Josep Malvehy</a>
+and their team as audience.
+<br />
+<em>Jul 2017. Barcelona, Spain.</em></p>
+
+<p><br /></p>
+
+<h1 id="projects">Projects</h1>
+<h2 id="life-on-mars">Life on Mars?</h2>
+<p><em>GAN-generated images of a terraformed Mars</em>
+<br />
+<a href="https://nips2018creativity.github.io/">NeurIPS 2018 Workshop on Machine Learning for Creativity and Design</a>
+<br />
+Authors: Albert Jimenez, <strong>Adria Romero</strong>, Stephen Solis-Reyes, Mohamed Akrout, Anirudh Challa
+<a id="life-on-mars-botton" onclick="show_text('life-on-mars-abstract')">[abstract]</a>
+<a href="https://artifyearth.co/">[website]</a>
+<a href="http://www.aiartonline.com/community/albert-jimenez-adria-romero-lopez-mohamed-akrout-stephen-solis-reyes-anirudh-challa/">[NeurIPS website]</a></p>
+<div id="life-on-mars-abstract" style="display:none;">
+<blockquote> This project attempts to present an artistic representation of Mars after undergoing terraforming by humans.
+As a result of this planetary engineering technique, Mars’s surface would adopt a more habitable appearance, similar to
+that of the Earth. As an atmosphere is built and temperatures rise, the water cycle begins to take form. Clouds develop,
+mountains become covered in snow, rivers start flowing down to the green covered fields, and the rocky Martian deserts
+are replaced by trees and forests.
+The recreation of that process was performed using an approach based on image to image translation trained on a dataset
+based on images of Earth and Mars (fiction and NASA). </blockquote>
+</div>
+
+<h2 id="artify-the-earth">Artify the Earth</h2>
+<p><em>Neural Style Transfer techniques applied to satellite and planet images</em>
+<br />
+Project developed during the <a href="https://2018.spaceappschallenge.org/">2018 Space Apps Challenge</a> organized by NASA.
+<br />
+Authors: Albert Jimenez, <strong>Adria Romero</strong>, Stephen Solis-Reyes, Mohamed Akrout, Anirudh Challa
+<a id="artify-the-earth-botton" onclick="show_text('artify-the-earth-abstract')">[abstract]</a>
+<a href="https://www.instagram.com/artifyearth/">[instagram]</a><a href="https://docs.google.com/presentation/d/1RHz_7okBIs_uZ5ODoWuGN0XOV8PKVh-Ej67iy8sla_M/edit?usp=sharing">[slides]</a></p>
+<div id="artify-the-earth-abstract" style="display:none;">
+<blockquote> There has been a lot of work in image generation using Artificial Intelligence in the last couple of years,
+but this work is distinguished from the rest since its novelty in the application of these state-of-the-art technologies
+to satellite and planet images. We used the state of the art models of style transfer for this project. We present a
+front end tool where users can choose various style options (e.g. Earth, Moon, Mars, Jupiter, etc.) including converting
+Earth images to other planets and vice versa. We also have some options to convert images into an artistic impression
+(e.g. Picasso, Kandinsky, Van Gogh, da Vinci, etc.) of the image. </blockquote>
+</div>
+
+<h2 id="skin-lesion-detection-from-dermoscopic-images-using-convolutional-neural-networks">Skin lesion detection from dermoscopic images using Convolutional Neural Networks</h2>
+<p><em>Deep Learning techniques applied to Medical Imaging</em>
+<br />
+Advisor: Dr. <a href="https://www.ogemarques.com/">Oge Marques</a>
+<br />
+Co-Advisor: Dr. <a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giro-i-Nieto</a>
+<br />
+<a id="bsc-thesis-botton" onclick="show_text('bsc-thesis')">[abstract]</a>
+<a href="http://adriaromero.net/BSc_Thesis_Skin_Lesion_CNN/">[website]</a>
+<a href="https://www.slideshare.net/AdriRomeroLpez/adriabscthesis">[pdf]</a>
+<a href="https://www.slideshare.net/xavigiro/skin-lesion-detection-from-dermoscopic-images-using-convolutional-neural-networks">[slides]</a></p>
+<div id="bsc-thesis" style="display:none;">
+<blockquote> The recent emergence of machine learning and deep learning methods for medical image analysis has enabled
+the development of intelligent medical imaging-based diagnosis systems that can assist physicians in making better
+decisions about a patient’s health. In particular, skin imaging is a field where these new methods can be applied with
+a high rate of success.
+
+This thesis focuses on the problem of automatic skin lesion detection, particularly on melanoma detection, by applying
+semantic segmentation and classification from dermoscopic images using a deep learning based approach.
+For the first problem, a U-Net convolutional neural network architecture is applied for an accurate extraction of the
+lesion region. For the second problem, the current model performs a binary classification (benign versus malignant) that
+can be used for early melanoma detection. The model is general enough to be extended to multi-class skin lesion
+classification. The proposed solution is built around the VGG-Net ConvNet architecture and uses the transfer learning
+paradigm. Finally, this work performs a comparative evaluation of classifica- tion alone (using the entire image)
+against a combination of the two approaches (segmentation followed by classification) in order to assess which of
+them achieves better classification results.
+
+Experimental results for the classification task are encouraging: on the ISIC Archive dataset, the proposed method
+achieves an accuracy in the top three of the best previously published results. The experimental results of the
+segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.</blockquote>
+</div>
+
+<p><br /></p>
+<h1 id="publications">Publications</h1>
+
+<h2 id="the-impact-of-segmentation-on-the-accuracy-and-sensitivity-of-a-melanoma-classifier-based-on-skin-lesion-images">The impact of segmentation on the accuracy and sensitivity of a melanoma classifier based on skin lesion images.</h2>
+<p>Jack Burdick, Oge Marques, <strong>Adrià Romero-López</strong>, Xavier Giró-i-Nieto
+<br />
+In Annual Meeting of the <a href="https://siim.org/page/SIIM2017">Society of Imaging Informatics in Medicine</a> (SIIM).
+<br />
+<em>Pittsburgh, PA, USA. 2017</em>
+<br />
+<a id="siim-abstract-botton" onclick="show_text('siim-abstract')">[abstract]</a> <a href="https://upcommons.upc.edu/handle/2117/105582">[paper]</a></p>
+<div id="siim-abstract" style="display:none;">
+<blockquote> We investigated the hypothesis that segmentation improves classification performance of skin lesions
+using convolutional neural networks. Examination of classification using different degrees of
+segmentation on images from the ISIC Archive dataset with the VGG-16 architecture revealed
+unexpected results. Early results indicate that the highest classification performance occurs when a preclassification
+segmentation and an unconventional subsequent dilation of the segmentation region is
+performed. </blockquote>
+</div>
+
+<h2 id="skin-lesion-classification-from-dermoscopic-images-using-deep-learning-techniques">Skin Lesion Classification from Dermoscopic Images using Deep Learning Techniques.</h2>
+<p><strong>Adria Romero-Lopez</strong>, Xavier Giro-i-Nieto, Jack Burdick, Oge Marques
+<br />
+13th <a href="https://www.iasted.org/conferences/pastinfo-852.html">IASTED International Conference</a>
+<br />
+<em>Innsbruck, Austria. 2017</em>
+<br />
+<a id="iasted-abstract-botton" onclick="show_text('iasted-abstract')">[abstract]</a> <a href="https://ieeexplore.ieee.org/document/7893267">[paper]</a></p>
+<div id="iasted-abstract" style="display:none;">
+<blockquote> The recent emergence of deep learning methods for medical image analysis has enabled the development of
+intelligent medical imaging-based diagnosis systems that can assist the human expert in making better decisions about
+a patients health. In this paper we focus on the problem of skin lesion classification, particularly early melanoma
+detection, and present a deep-learning based approach to solve the problem of classifying a dermoscopic image
+containing a skin lesion as malignant or benign. The proposed solution is built around the VGGNet convolutional
+neural network architecture and uses the transfer learning paradigm. Experimental results are encouraging: on the
+ISIC Archive dataset, the proposed method achieves a sensitivity value of 78.66%, which is significantly higher than
+the current state of the art on that dataset.
+</blockquote>
+</div>
+
+<p><br /></p>
+<h1 id="courses">Courses</h1>
+
+<p><strong>Medical Imaging Summer School 2018</strong> <a href="http://iplab.dmi.unict.it/miss/">[website]</a>
+<br />
+Sicily, Italy
+<br />
+<em>July 2018</em>
+<br /></p>
+
+<p><strong>Deep Learning Specialization by Andrew Ng</strong>
+<br />
+<a href="https://www.deeplearning.ai/">deeplearning.ai</a>
+<br />
+<em>Sep 2017</em>
+<br /></p>
+
+<p><strong>Deep Learning for Computer Vision Barcelona</strong> <a href="http://imatge-upc.github.io/telecombcn-2016-dlcv/">[website]</a>
+<br />
+Polytechnic University of Catalonia (UPC)
+<br />
+<em>Summer 2016</em>
+<br /></p>
+
+<p><strong>CS231n - Convolutional Neural Networks for Visual Recognition</strong> <a href="http://cs231n.stanford.edu/">[website]</a>
+<br />
+Stanford University
+<br />
+<em>Spring 2016</em></p>
+
+<p><br /></p>
+<h1 id="honors--awards">Honors &amp; Awards</h1>
+
+<p><strong>Best Bachelor Thesis Award</strong> in the field of telecommunications engineering 2016-2017.
+<br />
+<em><a href="https://www.upc.edu/en">Universitat Politènica de Catalunya</a> (UPC) and <a href="https://catedratelefonica.upc.edu/es">UPC Telefónica Catedra</a>.</em>
+<br />
+<em>Barcelona, Spain.</em>
+<em>Jun 2018</em>
+<br />
+<a id="gpi-seminar-botton" onclick="show_text('best-thesis')">[summary]</a>
+<a href="https://www.slideshare.net/AdriRomeroLpez/adriabscthesis">[thesis]</a>
+<a href="https://www.slideshare.net/xavigiro/skin-lesion-detection-from-dermoscopic-images-using-convolutional-neural-networks">[slides]</a></p>
+<div id="best-thesis" style="display:none;">
+<blockquote>Best Bachelor thesis award in the field of telecommunications engineering 2016-2017. Award issued by
+Universitat Politènica de Catalunya (UPC) and UPC Telefónica Catedra. </blockquote>
+</div>
+
+<p><strong>Global Talent Stream</strong>
+<br />
+Government of Canada - Gouvernement du Canada
+<br />
+<em>Toronto, Canada.</em>
+<em>May 2018</em>
+<br /></p>
+
+<p><strong>Seeds for the Future 2016</strong> Program. <em>Huawei Technologies Co. Ltd.</em>
+<br />
+<em>Beijing &amp; Shenzhen, China.</em>
+<em>Jun 2016</em>
+<br />
+<a id="seeds-for-the-future-botton" onclick="show_text('seeds-for-the-future')">[summary]</a>
+<a href="https://twitter.com/EmbEspChina/status/752690668569583616">🐦</a></p>
+<div id="seeds-for-the-future" style="display:none;">
+<blockquote>A 2-week work experience scheme in China for 15 students who have successfully completed their 2nd year.
+The program offered a week Mandarin language &amp; culture training at a famous university in Beijing; Huawei Training on
+ICT Technologies &amp; Solutions; First-hand work experience at Huawei's Shenzhen headquarter; Discover Chinese culture and
+historical landmarks.</blockquote>
+</div>
+
+<p><strong>Young Research Award 2011</strong> (<em>Premi de Recerca Jove</em>). <em>Government of Catalonia.</em>
+<br />
+<em>Barcelona, Spain.</em>
+<em>Jul 2011</em>
+<br />
+<a id="young-research-award-botton" onclick="show_text('young-research-award')">[summary]</a></p>
+<div id="young-research-award" style="display:none;">
+<blockquote>Young Research Award 2011. Catalonia Government Award to the best research project done during the second
+year of high school at regional level.</blockquote>
+</div>
+
+<p><br /></p>
+<h1 id="media">Media</h1>
+
+<p>Huawei, <em>Seeds for the Future</em> Award at UPC news [<a href="https://telecos.upc.edu/ca/noticies/l2019estudiant-adria-romero-lopez-guanya-el-concurs-seeds-for-the-future-de-huawei">article</a>]</p>
+
+<hr />
+:ET
