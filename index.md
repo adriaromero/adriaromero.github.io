@@ -14,7 +14,7 @@ In 2017, I graduated from [Polytechnic University of Catalonia](https://www.upc.
 I completed my Bachelor's Thesis at [Florida Atlantic University](http://www.ceecs.fau.edu/) advised by Professor
 [Oge Marques](https://www.ogemarques.com/) and Professor [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro) about *Deep Learning techniques applied to Medical Imaging* in 2016.
 
-I am currently enrolled on the Online Master of Science in Computer Science ([OMSCS](http://www.omscs.gatech.edu/)) at [Georgia Institute of Technology](https://www.gatech.edu/).
+I am currently enrolled in the Online Master of Science in Computer Science ([OMSCS](http://www.omscs.gatech.edu/)) at [Georgia Institute of Technology](https://www.gatech.edu/).
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
