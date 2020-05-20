@@ -1,4 +1,4 @@
-I"<!-- ## About Me -->
+I"乀<!-- ## About Me -->
 
 <p><img src="images/adria.jpg" height="250" width="250" align="right" /></p>
 
@@ -10,7 +10,7 @@ My applied research and engineering work focuses on <em>machine learning</em>, <
 I completed my Bachelor鈥檚 Thesis at <a href="http://www.ceecs.fau.edu/">Florida Atlantic University</a> advised by Professor
 <a href="https://www.ogemarques.com/">Oge Marques</a> and Professor <a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giro-i-Nieto</a> about <em>Deep Learning techniques applied to Medical Imaging</em> in 2016.</p>
 
-<p>I am currently enrolled on the Online Master of Science in Computer Science (<a href="http://www.omscs.gatech.edu/">OMSCS</a>) at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>.</p>
+<p>I am currently enrolled in the Online Master of Science in Computer Science (<a href="http://www.omscs.gatech.edu/">OMSCS</a>) at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>.</p>
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -30,7 +30,7 @@ I completed my Bachelor鈥檚 Thesis at <a href="http://www.ceecs.fau.edu/">Florid
 <a href="https://twitter.com/adriaromero/status/1071446311797485569">馃惁</a></p>
   </li>
   <li>
-    <p><em>Nov 2018</em> - I will be presenting Triage鈥檚 latest work at the Self-Organizing Conference on Machine learning (SOCML) in Google鈥檚 Toronto office.</p>
+    <p><em>Nov 2018</em> - I will be presenting Triage鈥檚 latest work at the Self-Organizing Conference on Machine Learning (SOCML) in Google鈥檚 Toronto office.</p>
   </li>
   <li>
     <p><em>Jul 2018</em> - I was accepted to attend to <a href="http://iplab.dmi.unict.it/miss/">MISS 2018</a>. <a href="https://twitter.com/adriaromero/status/1024427158209536001">馃惁</a></p>
@@ -138,15 +138,17 @@ Sept 2011 - Jan 2017
 <p><br /></p>
 <h1 id="talks">Talks</h1>
 
-<p><strong><a href="https://drive.google.com/open?id=1lZT6lhpJagCvvbrWNNF7HzIlZVPXaMuV">Novartis I+Derma</a></strong>: Detect Disease in a Snap.
-<br /> <a href="https://cdnapisec.kaltura.com/html5/html5lib/v2.76/mwEmbedFrame.php/p/2076321/uiconf_id/40166251/entry_id/1_qkvraeku?wid=_2076321&amp;iframeembed=true&amp;playerId=kaltura_player_1580707787&amp;entry_id=1_qkvraeku">video</a>
-<em>Nov 2019. Novartis Spain, Madrid, Spain.</em></p>
-
-<p>**</p>
-
-<p><strong>GPI Seminar Series</strong>: <a href="https://imatge.upc.edu/web/info/gpi-seminar-series-towards-skin-disease-recognition-using-deep-learning-jul-26th-2018">Towards skin disease recognition using deep learning.</a>
+<p><strong>Detect Disease in a Snap</strong>
 <br />
-<em>Jul 2018. UPC, Barcelona, Spain.</em>
+<em>Nov 2019. <a href="https://drive.google.com/open?id=1lZT6lhpJagCvvbrWNNF7HzIlZVPXaMuV">Novartis I+Derma</a>, Madrid, Spain.</em> <a href="https://cdnapisec.kaltura.com/html5/html5lib/v2.76/mwEmbedFrame.php/p/2076321/uiconf_id/40166251/entry_id/1_qkvraeku?wid=_2076321&amp;iframeembed=true&amp;playerId=kaltura_player_1580707787&amp;entry_id=1_qkvraeku">[video]</a> <a href="https://twitter.com/adriaromero/status/1193861331260264448?s=20">馃惁</a></p>
+
+<p><strong>Q&amp;A-informed image-based deep learning for skin disease recognition in the real world</strong>
+<br />
+<em>Nov 2018. Google鈥檚 Office, Toronto, Canada.</em></p>
+
+<p><strong><a href="https://imatge.upc.edu/web/info/gpi-seminar-series-towards-skin-disease-recognition-using-deep-learning-jul-26th-2018">Towards skin disease recognition using deep learning</a></strong>
+<br />
+<em>Jul 2018. UPC - GPI Seminar Series, Barcelona, Spain.</em>
  <a id="gpi-seminar-botton" onclick="show_text('gpi-seminar')">[abstract]</a>
 <a href="https://twitter.com/adriaromero/status/1022536929986977792">馃惁</a></p>
 <div id="gpi-seminar" style="display:none;">
@@ -162,9 +164,9 @@ first healthcare companies using AI to be approved by the U.S. Food &amp; Drugs 
 </blockquote>
 </div>
 
-<p><strong><a href="http://www.upv.es/">Universitat Politecnica de Valencia</a></strong> (UPV): <em>Some insights and Deep Learning in a nutshell</em>.
+<p><strong>Some insights and Deep Learning in a nutshell</strong>
 <br />
-<em>Oct 2017. Valencia, Spain.</em>
+<em>Oct 2017. <a href="http://www.upv.es/">Universitat Politecnica de Valencia</a> (UPV), Valencia, Spain.</em>
 <a href="https://twitter.com/adriaromero/status/922252187337723904">馃惁</a></p>
 
 <p><strong><a href="https://www.hospitalclinic.org/en">Hospital Cl铆nic</a></strong> - <a href="https://www.hospitalclinic.org/en/healthcare/hospital-care/medicine-and-dermatology-icmid">Medicine and Dermatology</a>
@@ -247,24 +249,7 @@ segmentation evaluations demonstrate that the proposed method can outperform oth
 <p><br /></p>
 <h1 id="publications">Publications</h1>
 
-<h2 id="the-impact-of-segmentation-on-the-accuracy-and-sensitivity-of-a-melanoma-classifier-based-on-skin-lesion-images">The impact of segmentation on the accuracy and sensitivity of a melanoma classifier based on skin lesion images.</h2>
-<p>Jack Burdick, Oge Marques, <strong>Adri脿 Romero-L贸pez</strong>, Xavier Gir贸-i-Nieto
-<br />
-In Annual Meeting of the <a href="https://siim.org/page/SIIM2017">Society of Imaging Informatics in Medicine</a> (SIIM).
-<br />
-<em>Pittsburgh, PA, USA. 2017</em>
-<br />
-<a id="siim-abstract-botton" onclick="show_text('siim-abstract')">[abstract]</a> <a href="https://upcommons.upc.edu/handle/2117/105582">[paper]</a></p>
-<div id="siim-abstract" style="display:none;">
-<blockquote> We investigated the hypothesis that segmentation improves classification performance of skin lesions
-using convolutional neural networks. Examination of classification using different degrees of
-segmentation on images from the ISIC Archive dataset with the VGG-16 architecture revealed
-unexpected results. Early results indicate that the highest classification performance occurs when a preclassification
-segmentation and an unconventional subsequent dilation of the segmentation region is
-performed. </blockquote>
-</div>
-
-<h2 id="skin-lesion-classification-from-dermoscopic-images-using-deep-learning-techniques">Skin Lesion Classification from Dermoscopic Images using Deep Learning Techniques.</h2>
+<h2 id="skin-lesion-classification-from-dermoscopic-images-using-deep-learning-techniques">Skin Lesion Classification from Dermoscopic Images using Deep Learning Techniques</h2>
 <p><strong>Adria Romero-Lopez</strong>, Xavier Giro-i-Nieto, Jack Burdick, Oge Marques
 <br />
 13th <a href="https://www.iasted.org/conferences/pastinfo-852.html">IASTED International Conference</a>
@@ -282,6 +267,23 @@ neural network architecture and uses the transfer learning paradigm. Experimenta
 ISIC Archive dataset, the proposed method achieves a sensitivity value of 78.66%, which is significantly higher than
 the current state of the art on that dataset.
 </blockquote>
+</div>
+
+<h2 id="the-impact-of-segmentation-on-the-accuracy-and-sensitivity-of-a-melanoma-classifier-based-on-skin-lesion-images">The impact of segmentation on the accuracy and sensitivity of a melanoma classifier based on skin lesion images</h2>
+<p>Jack Burdick, Oge Marques, <strong>Adri脿 Romero-L贸pez</strong>, Xavier Gir贸-i-Nieto
+<br />
+In Annual Meeting of the <a href="https://siim.org/page/SIIM2017">Society of Imaging Informatics in Medicine</a> (SIIM).
+<br />
+<em>Pittsburgh, PA, USA. 2017</em>
+<br />
+<a id="siim-abstract-botton" onclick="show_text('siim-abstract')">[abstract]</a> <a href="https://upcommons.upc.edu/handle/2117/105582">[paper]</a></p>
+<div id="siim-abstract" style="display:none;">
+<blockquote> We investigated the hypothesis that segmentation improves classification performance of skin lesions
+using convolutional neural networks. Examination of classification using different degrees of
+segmentation on images from the ISIC Archive dataset with the VGG-16 architecture revealed
+unexpected results. Early results indicate that the highest classification performance occurs when a preclassification
+segmentation and an unconventional subsequent dilation of the segmentation region is
+performed. </blockquote>
 </div>
 
 <p><br /></p>
