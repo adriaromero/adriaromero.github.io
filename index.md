@@ -6,15 +6,18 @@ title: Adria Romero
 
 <img src="images/adria.jpg" height="250" width="250" align="right">
 
-**Senior Data Scientist** at [Triage](https://www.triage.com/about), based in Toronto,
-developing artificial intelligence, computer vision and Q&A solutions for healthcare products.
-My applied research and engineering work focuses on *machine learning*, *computer vision*, *medical imaging* and *Q&A* systems.
+✔️ My **Mission**: Empower society with smarter technology every day.
+🔆 My **Vision**: Drive inherent transformation and unique growth to the tech industry. <br>
+🌠 My **Passion**: Use data and technology to answer the "why" behind complex business problems.
 
-In 2017, I graduated from [Polytechnic University of Catalonia](https://www.upc.edu/en) in Electrical Engineering.
-I completed my Bachelor's Thesis at [Florida Atlantic University](http://www.ceecs.fau.edu/) advised by Professor
-[Oge Marques](https://www.ogemarques.com/) and Professor [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro) about *Deep Learning techniques applied to Medical Imaging* in 2016.
+👨‍💻 Currently, I am a Product Data Scientist at [Triage](https://www.triage.com/), bringing AI technologies to healthcare products. At Triage, I develop artificial intelligence solutions for dermatology that keep learning and making better predictions from users every day.
 
-I am currently enrolled in the Online Master of Science in Computer Science ([OMSCS](http://www.omscs.gatech.edu/)) at [Georgia Institute of Technology](https://www.gatech.edu/).
+🌃 At nights, I curate [Productize ML](https://productize.ml/), an instruction guide for Developers and Product Managers building Machine Learning products.
+
+💡 I love using innovative thinking, strategic planning, and data-driven decision making to help support the businesses and projects that I work on, both personally and professionally. Nothing makes me happier than to know that what I implement can make processes more efficient and that I create insight into KPIs that improve business function.
+
+🎓 I am currently enrolled in the Online Master of Science in Computer Science ([OMSCS](http://www.omscs.gatech.edu/)) at [Georgia Institute of Technology](https://www.gatech.edu/) graduating in December 2021. In 2017, I graduated from [Polytechnic University of Catalonia](https://www.upc.edu/en) in Electrical Engineering. I completed my Bachelor’s Thesis at [Florida Atlantic University](http://www.ceecs.fau.edu/) about Deep Learning techniques applied to Medical Imaging in 2016.
+
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -57,31 +60,56 @@ function show_text(id_str) {
 }
 </script>
 
-## Senior Data Scientist
+## Product Data Scientist
 [Triage](https://www.triage.com)
 <br>
-Apr 2019 - Current
+Apr 2018 - Current
 <br>
 *Toronto, Canada*
 <br>
 <a id="triage-job-botton" onclick="show_text('triage-senior-job')">[description]</a>
 <div id="triage-senior-job" style="display:none;">
-<blockquote> Triage brings artificial intelligence solutions to healthcare. We use deep learning, a type of machine
-learning algorithms inspired by the human brain, to perform skin exams with dermatologist-level accuracy. </blockquote>
+<blockquote>
+• Developed AI solution able to recognize over 500 skin conditions with accuracy superior to dermatologists currently piloted at leading hospitals including Stanford Medicine, MSK Cancer Centre, MD Anderson Cancer Center, and Sunnybrook Hospital.<br>
+• Lead Data Scientist responsible for Machine Learning infrastructure.<br>
+• Managed and executed the holistic product development of the rejection gate, visual classifier, and question&answer system by identifying users needs.<br>
+• Establish strategic partnerships with pharmaceutical companies and hospitals such as Novartis and Sanitas (Bupa group).<br>
+• Due diligence and communication with potential investors and stakeholders.<br>
+• Co-author and contributor of several company patents (filed, approval pending), FDA application, core technology, and whitepaper and benchmarking reports.<br>
+• Generated business leads by representing company in science conferences (Google, NeurIPS), hospital talks (Hospital Clinic) and medical conferences (Novartis).<br>
+</blockquote>
 </div>
 
-## AI Researcher & Developer
+## Machine Learning Engineer
 [Triage](https://www.triage.com)
 <br>
-Apr 2017 - Apr 2019
+Apr 2017 - Apr 2018
 <br>
 *Toronto, Canada*
 <br>
 <a id="triage-job-botton" onclick="show_text('triage-job')">[description]</a>
 <div id="triage-job" style="display:none;">
-<blockquote> Triage brings artificial intelligence solutions to healthcare. We use deep learning, a type of machine
-learning algorithms inspired by the human brain, to perform skin exams with dermatologist-level accuracy. </blockquote>
+<blockquote>
+• Development of the dermatology Machine Learning solutions including CNNs and decision trees.<br>
+• Data Management and organization using medical ontologies.<br>
+• Development of engineering infrastructure and operations.<br>
+</blockquote>
 </div>
+
+## Founder and Instructor
+[Productize ML](https://productize.ml/)
+<br>
+Jan 2020 - Current
+<br>
+*Toronto, Canada*
+<br>
+<a id="productize-ml-botton" onclick="show_text('productize-ml-job')">[description]</a>
+<div id="productize-ml-job" style="display:none;">
+<blockquote>
+Productize ML helps Developers and Product Managers building Machine Learning products to learn the technology in deep as well as to bridge the gap from the theory and deployment of AI systems to real users.
+</blockquote>
+</div>
+
 
 ## Machine Learning Engineer Intern
 [Insight Centre for Data Analytics](https://www.insight-centre.org/)
@@ -97,6 +125,55 @@ unsupervised learning with classic supervised learning over large partially labe
 highly-generalizable models. </blockquote>
 </div>
 
+
+## Scholarship Program
+[Huawei](https://www.huawei.com/)
+<br>
+Jun 2016 - Jul 2016
+<br>
+*Beijing, China*
+<br>
+<a id="huawei-botton" onclick="show_text('huawei-job')">[description]</a>
+<div id="huawei-job" style="display:none;">
+<blockquote> Seeds for the Future scholarship program that included hands-on training on ICT Technologies & Solutions and first-hand experience at Huawei's Shenzhen headquarter. </blockquote>
+</div>
+
+
+## Founder
+[laFarmacoteca](http://lafarmacoteca.es/)
+<br>
+Sept 2014 - Apr 2017
+<br>
+*Barcelona, Spain*
+<br>
+<a id="lafarmacoteca-botton" onclick="show_text('lafarmacoteca-job')">[description]</a>
+<div id="lafarmacoteca-job" style="display:none;">
+<blockquote> e-Commerce pharmacy. </blockquote>
+</div>
+
+## Elite/Premier Channel Partner Assistant
+[Schneider Electric](https://www.se.com/)
+<br>
+Jan 2016 - Jun 2016
+<br>
+*Barcelona, Spain*
+<br>
+<a id="se-botton" onclick="show_text('se-job')">[description]</a>
+<div id="se-job" style="display:none;">
+<blockquote> Assisted in coordinating sales and marketing activities, aided in the planning and execution of programs and events and training of strategic ICT division partners. Helped on managing the existing Elite / Premier Partners as well as in the recruiting of future ones. </blockquote>
+</div>
+
+
+<br>
+# Education
+
+## M.Sc. in Computer Science
+[Georgia Institute of Technology](https://www.gatech.edu/) (GaTech)
+<br>
+*Atlanta, USA*
+<br>
+January 2020 - January 2021 (*Expected*)
+
 ## Visiting Student
 [Florida Atlantic University](http://www.ceecs.fau.edu/)
 <br>
@@ -107,19 +184,8 @@ Aug 2016 - Feb 2017
 <a id="fau-visiting-botton" onclick="show_text('fau-visiting')">[description]</a>
 [[thesis]](https://www.slideshare.net/AdriRomeroLpez/adriabscthesis)
 <div id="fau-visiting" style="display:none;">
-<blockquote> Bachelor’s thesis "Skin lesion detection from dermoscopic images using CNNs" under the supervision of
-Professor Oge Marques </blockquote>
+<blockquote> The thesis focuses on the problem of automatic skin lesion detection, particularly on melanoma detection, by applying semantic segmentation and classification from dermoscopic images using a deep learning-based approach. </blockquote>
 </div>
-
-<br>
-# Education
-
-## M.Sc. in Computer Science
-[Georgia Institute of Technology](https://www.gatech.edu/) (GaTech)
-<br>
-*Atlanta, USA*
-<br>
-January 2020 - January 2022 (*Expected*)
 
 ## B.Sc. in Telecommunications Engineering
 [Polytechnic University of Catalonia](https://www.upc.edu/en) (UPC)
